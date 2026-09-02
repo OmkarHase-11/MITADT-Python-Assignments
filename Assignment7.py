@@ -1,4 +1,3 @@
-
 import re
 
 # Sample text
